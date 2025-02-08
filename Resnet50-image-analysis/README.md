@@ -7,7 +7,6 @@ Deep learning framework for regression-based analysis of bronchoalveolar lavage 
 BALF/
 ├── src/                     # Source code
 ├── data/                    # Example data (training, validation, test)
-└── models/                  # Saved model checkpoints
 ```
 
 ## Features
