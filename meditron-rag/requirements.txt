@@ -1,0 +1,15 @@
+langchain==0.1.12
+langchain-community==0.0.28
+replicate==0.24.0
+chromadb==0.4.24
+sentence-transformers==2.5.1
+python-dotenv==1.0.1
+gradio==4.21.0
+pypdf==4.1.0
+tensorflow==2.15.0
+tensorflow-io-gcs-filesystem==0.37.1
+pillow==10.2.0
+numpy==1.24.3
+transformers==4.38.2
+optree>=0.13.0
+fastapi==0.112.2 

@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Model cache and large files
+meditron-rag/src/cache/
+meditron-rag/src/cache/**
+meditron-rag/src/data/vector_store/
+meditron-rag/src/data/vector_store/**
+meditron-rag/images/
+
+# ResNet50 large files
+Resnet50-image-analysis/data/
+Resnet50-image-analysis/Model/*.hdf5
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/ 
